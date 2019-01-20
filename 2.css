@@ -1,0 +1,125 @@
+.logo{
+	margin:auto;
+	width:200px;
+	height: 200px;
+	padding-top: 20px;
+	
+}
+.content {
+	width: 70%;
+	display:blocks;
+	margin:auto;
+}
+body {
+ background-image: url("https://www.editus.lu/Content/images/horoscope-bckg.jpg");
+ background-position: center;
+}
+.info
+{
+	height: 80px;
+	text-align:center;
+	margin:auto;
+	line-height: 80px;
+}
+.left{
+	float:left;
+	font-size:25pt;
+	
+}
+.right{
+	float:right;
+	font-size:25pt;
+	
+}
+.middle{
+	font-size:25pt;
+	
+}
+a:hover
+{
+	font-weight:bold;
+	text-align:center;
+	
+}
+a:link
+{
+	color:white;
+	text-decoration: none;
+}
+.antraste
+{
+	font-size:20pt;
+	font-weight:bold;
+	text-align:center;
+	margin:auto;
+}
+.straipsnis{
+	width: 47%;
+	margin:auto;
+}
+
+.nuotrauka {
+	margin: auto;
+}
+.tekstas{
+	/*float: right;*/
+	font-size: 27px;
+	line-height: 0;
+	font-weight: 900;
+	font-style: italic;
+	color: white;
+}
+a:link {
+	text-decoration: none;
+	color:white;
+	font-weight: bold;
+	font-size: 18pt;
+	margin: auto;
+	padding-top: 300px;
+	padding-left: 900px;
+	padding-bottom: 400px; 
+
+}
+a:visited {
+  color: white;
+}
+
+a:hover {
+  font-size: 20pt;
+}
+.horo{
+	
+}
+.foto{
+
+	padding-left: 200px;
+	float: right;
+	text-align: right;
+
+
+}
+.aprasymas{
+	float: left;
+
+	display: flex;
+	padding-bottom: 30px;
+
+}
+.raides{
+
+	width: 80%;
+	clear: both;
+	text-align: left;
+	padding-left: 20px;
+	
+	padding-right: 300px;
+	font-size: 14pt;
+	color: #bcbee5;
+}
+.horoskopas{
+	text-align: center;
+}
+.atgal{
+	font-size: 24pt;
+}
+
